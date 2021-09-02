@@ -1,0 +1,19 @@
+{
+    "name": "mob2you/proxy-pattern",
+    "description": "Proxy Pattern with Tio Jobs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tio Jobs",
+            "email": "icarojobsoficial@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
